@@ -1,0 +1,12 @@
+35.49044622248647
+127.32965469360352
+
+Height range: 98.496m to 560.613m
+
+In Unreal Engine, on import, a z scaling of 90.26 should be used for 1:1 height scaling using a normalised image.
+
+x and y scales should be set to 388.37
+
+For 3D printing, the height range is 462.117m and height/width ratio is 0.059
+
+i.e. if you printed this 100mm wide, it would have to be 5.899mm tall to be physically accurate
